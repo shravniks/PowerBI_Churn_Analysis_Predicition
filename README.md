@@ -37,4 +37,14 @@ Made a dashboard to visualise predicted values.
 
 ## Screenshots:
 
+![image](https://github.com/user-attachments/assets/df89e614-079e-4432-b456-5e8cf9ebe14f)
+
+![image](https://github.com/user-attachments/assets/feeff6f0-2992-48ab-b8c4-cce7ebf3d1c1)
+
+![image](https://github.com/user-attachments/assets/f3383e0d-28e6-4165-9a07-224a6236389d)
+
+![image](https://github.com/user-attachments/assets/57d62809-01a5-4349-8af8-2f2cd3125bf5)
+
+
+
 
