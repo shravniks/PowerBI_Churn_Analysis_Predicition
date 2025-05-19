@@ -33,3 +33,8 @@ Evaluated performance using metrics like accuracy, F1-score, AUC.
 ### Step 4. Prediction Integration
 ML model outputs saved back to SQL Server.
 Made a dashboard to visualise predicted values.
+
+
+## Screenshots:
+
+
